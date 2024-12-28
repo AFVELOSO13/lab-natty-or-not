@@ -40,9 +40,9 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](/Exemplos/E-BOOK.md)
+- [Podcast](/Exemplos/PODCAST.md)
+- [Vídeo (Avatar Virtual)](/Exemplos/VIDEO.md)
 
 ## Links Interessantes
 
