@@ -42,7 +42,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 - [E-BOOK](/Exemplos/E-BOOK.md)
 - [Podcast](/Exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/Exemplos/VIDEO.md)
+- [Planilhas Inteligentes](/Exemplos/PLANILHA.md)
 
 ## Links Interessantes
 
